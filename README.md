@@ -13,7 +13,7 @@
 
 - September 25, 2019 , Grade Achieved: 91.90%
 
-
+> ![Applied Machine Learni.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607536549/Applied_Machine_Learni.png)
 
 
 
@@ -23,7 +23,7 @@
 - November 21, 2020 , 4 weeks of study, 2-3 hours/week , Grade Achieved: 92.50%
 
 
-
+> ![Ai.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607536555/Ai.png)
 
 
 
@@ -33,12 +33,18 @@
 - September 30, 2020 , 5 weeks of study, 2-5 hours/week  , Grade Achieved: 100.00%
 
 
+> ![Linear Algebra.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607536549/Linear_Algebra.png)
+
+
+
 
 ## [Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/eaaa785d9f0157598b642a15e9c38050)
 
 
 - November 12, 2020 , 6 weeks of study, 2-5 hours/week , Grade Achieved: 88.75%
 
+
+> ![Calculus.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607536549/Calculus.png)
 
 
 
